@@ -3,7 +3,7 @@
 ;SIGMOID IS STORED IN S8
 ;FINAL VALUE IS STORED IN R1
 
-		AREA    exponent,CODE,READONLY
+		AREA    neural,CODE,READONLY
         EXPORT __main
 		IMPORT	printMsg
 		IMPORT	printMsg1
